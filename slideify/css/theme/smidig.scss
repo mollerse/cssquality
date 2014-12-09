@@ -23,8 +23,8 @@
 $backgroundColor: #1c202b;
 
 $mainFont: 'Jaapokki-regular', sans-serif;
-$linkColor: darken(red, 10%);
-$linkColorHover: lighten( $linkColor, 20% );
+$linkColor: #fb544d;
+$linkColorHover: lighten( $linkColor, 10% );
 $headingFont: 'Jaapokki', sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: 0em;
@@ -33,7 +33,7 @@ $headingColor: #fb544d;
 $headingMargin: 0;
 $headingLineHeight: 1.25em;
 $selectionBackgroundColor: #1c202b;
-$mainFontSize: 3em;
+$mainFontSize: 6vh;
 
 
 // Theme template ------------------------------
